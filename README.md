@@ -30,6 +30,3 @@ Make sure to replace `PASTE_YOUR_GOOGLE_MAPS_API_KEY_HERE` with your Google Maps
 
 ## Inside The App
 ![Nearby-Restaurants](https://user-images.githubusercontent.com/16986422/68228220-c21d0000-fffd-11e9-8b43-3c79e2c89784.jpg)
-
-## Contributing
-This is my 7th Project in The [Front-End Developer Diploma at OpenClassrooms](https://openclassrooms.com/en/paths/61-front-end-developer), and there's no need to contribute to this project. But if you're interested, you can `Fork` it, and build something cool upon it!
